@@ -1,0 +1,7 @@
+version: 2
+
+seeds:
+  - name: employee_demo_clean
+    config:
+      column_types:
+        YearsWithCurrManager: FLOAT64
